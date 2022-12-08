@@ -12,6 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Git"
         tools:targetApi="31">
+        <activity android:name=".mamasheni_ekranze"
+            android:exported="false"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
